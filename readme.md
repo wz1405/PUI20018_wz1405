@@ -5,5 +5,5 @@
 #2 Screenshots
     Screenshots from the very first assignment:
 
-![](PUI2018/Images/BashProfileScreenshot.png)
-![](PUI2018/Images/PwdTestingScreenshot.png)
+![](Images/BashProfileScreenshot.png)
+![](Images/PwdTestingScreenshot.png)
