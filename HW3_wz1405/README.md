@@ -1,1 +1,1 @@
-something
+  As for the Lab3 assignmenr, I worked primarily with Junjie Cai. The Lab3 instruction was quite clear and there wasn't much difficulty doing so. Though I found out that the line 461 code wasn't working so I opt for line 462 code and it worked. They differ by slight syntax.
