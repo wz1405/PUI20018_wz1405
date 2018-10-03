@@ -1,0 +1,1 @@
+This is readme for Homework 4. I basically carried out all the homework alone but with strong reference from Dr. Bianco's code. 
