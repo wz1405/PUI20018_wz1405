@@ -1,0 +1,4 @@
+Assignment 1:
+Overall, I did not meet much problem except for csv-reading process. I use the read csv command as usual but all the column names went into one column. I tried everything, such as changing the delimiter and separater but none of these approaches works. Thus, I deleted the uploaded files and re-uploaded them up again into the puidata folder and then the problem is gone.
+Assignment 2:
+I had problems with finding the weekends and radius from Times Square. My overall approach was right, including use the right function but with syntax errors I was not able to get any output. I collaborated with Songjian, Ryan, and Jianwei on these obstacles.
