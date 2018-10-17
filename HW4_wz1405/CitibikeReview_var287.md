@@ -7,13 +7,12 @@ The idea is good and interesting, you could expand more by adding temporal aspec
 
 Men and Women have equal average trip duration while riding CitiBike at night. 
 
-$ H0: Men‘s mean = Women's mean $
-
 Alternative could be 
 
 Men and Women have different average trip duration while riding CitiBike at night. 
 
-$ H1: Men‘s mean != Women's mean $
+H0: Men‘s mean = Women's mean 
+H1: Men‘s mean != Women's mean
 
 #### Data
 you can separate the dataset into Men and Women, Just to make it easy for your analysis.
