@@ -12,6 +12,7 @@ Alternative could be
 Men and Women have different average trip duration while riding CitiBike at night. 
 
 H0: Men‘s mean = Women's mean 
+
 H1: Men‘s mean != Women's mean
 
 #### Data
