@@ -39,8 +39,9 @@ Logistic Regression	|1. Nose Video, 2. Age(years); 3.Fractional disease duration
   
   Include the main plot of the paper (the plot that summarized the result)
   
-![main plot](Figure1.PNG)(Figure2.PNG)
-
+![main plot](Figure1.PNG)
+![main plot](Figure2.PNG)
+![main plot](Figure3.PNG)
 
 ### GRADING: 
 
