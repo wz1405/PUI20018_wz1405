@@ -6,10 +6,13 @@
 The idea is good and interesting, you could expand more by adding temporal aspect to make it a little bit more intersting. The wording of the hypothesis better to be more clear. For example, the Null could be 
 
 Men and Women have equal average trip duration while riding CitiBike at night. 
+
 $ H0: Men‘s mean = Women's mean $
 
 Alternative could be 
-Men and Women have differnet average trip duration while riding CitiBike at night. 
+
+Men and Women have different average trip duration while riding CitiBike at night. 
+
 $ H1: Men‘s mean != Women's mean $
 
 #### Data
