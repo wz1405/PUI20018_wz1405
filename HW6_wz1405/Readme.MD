@@ -2,7 +2,7 @@
 
 ## ASSIGNMENT1:
 
-![](Images/CitiBikeReviewPullRequestED_wz1405.png)
+![](HW6_wz1405/CitiBikeReviewPullRequestED_wz1405.png)
 
 ## ASSIGNMENTS:
 
