@@ -17,6 +17,8 @@ Each of you needs to upload their own plot, no group submissions.
 
 If your plot shows up as I described above in the repo and the code is also uploaded you will get 100% of the HW points. (Next week you will be tasked to review 3 plots of your classmates and you will be graded on the quality of the review.)
 
+## Graph:
+
 ![](/HW8_wz1405/Figure1.png)
 
 ## Caption: 
