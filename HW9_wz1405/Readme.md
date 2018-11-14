@@ -1,3 +1,5 @@
+All three assignment are done by myself.
+
 The plots you have to review are those of
 (Name, netID, GitHub handle)
 Zoe Elizabeth Martiniak, zem232, zem232, 
