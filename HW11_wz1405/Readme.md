@@ -1,0 +1,2 @@
+Assignment1: It gets challenging along the way and I asked for Guanjia's help, and referenced to Dr. Bianco's code. Many lines in the file were used to get the information of the array.
+Assignment2: I made some improvement to my plot according to the plot review from HW8 by myself. 
